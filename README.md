@@ -1,4 +1,11 @@
 Project for ASL fingerspelling recognition for the UPC Deep Learning course.
+Team:
+* [Pau](https://www.kaggle.com/pauerv)
+* [Santi](https://www.kaggle.com/sscalzadonnaupc)
+* Iñaki
+* [Julien](https://www.kaggle.com/lejuin)
+
+Advisor: Laia
 
 # Reference
 
